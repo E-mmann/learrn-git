@@ -1,7 +1,7 @@
-#This was created for learning git
+# This was created for learning git
 
 Its your boy eMann
 
-'''javascript
+```javascript
 console.log("Hello Github")
-'''
+```
